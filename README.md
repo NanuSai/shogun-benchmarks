@@ -3,4 +3,8 @@ The goal here is to benchmarks existing algorithms implemented in shogun reposit
 
 
 
+### NOTE
+This repository uses shogun API from the conda and hence is old. The result may vary with the new API, and this notebook will be updated accordingly in due time.
+
+
 More to come soon .. ! :D
